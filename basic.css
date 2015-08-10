@@ -3,12 +3,15 @@ html {
 	margin: 0;
 	padding: 0;
 	}
+div.body {
+background: #fff;
+	}
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(blossoms.jpg) no-repeat bottom right; 
-	margin: 15px; 
+	background: #a6b3a2; 
+	margin: 50px; 
 	padding: 0;
 	}
 p { 
