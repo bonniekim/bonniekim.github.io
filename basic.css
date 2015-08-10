@@ -4,14 +4,21 @@ html {
 	padding: 0;
 	}
 div.body {
-background: #fff;
+	background: #ffffff;
+	padding-left: 50px;
+	padding-right: 50px;
+	float: left;
 	}
+div.floatright {
+	float: right;
+}
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
 	background: #a6b3a2; 
-	margin: 50px; 
+	margin-left: 50px;
+	margin-right: 50px;
 	padding: 0;
 	}
 p { 
