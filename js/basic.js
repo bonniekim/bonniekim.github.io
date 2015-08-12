@@ -13,3 +13,12 @@ if (hourNow > 18) {
 }
 
 document.write ('<h3>' + greeting + '</h3>');
+
+/*var - variable
+quantity - variable name
+; - conclusion
+example - var quantity;  
+= - assignment operator
+3 - variable value
+example - quantity = 3;
+*/
